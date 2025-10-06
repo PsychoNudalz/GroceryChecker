@@ -1,0 +1,328 @@
+{
+  "orders": [
+    {
+      "ProductName": "Full cream milk",
+      "Quantity": 1,
+      "Weight": "2 L",
+      "EstCost": 3.3
+    },
+    {
+      "ProductName": "Wholemeal bread",
+      "Quantity": 1,
+      "Weight": "700 g",
+      "EstCost": 2.5
+    },
+    {
+      "ProductName": "Free range eggs",
+      "Quantity": 1,
+      "Weight": "12 pack",
+      "EstCost": 6.5
+    },
+    {
+      "ProductName": "Chicken breast fillets",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 8.5
+    },
+    {
+      "ProductName": "Beef mince",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 6.5
+    },
+    {
+      "ProductName": "Salmon fillets",
+      "Quantity": 1,
+      "Weight": "300 g",
+      "EstCost": 10.0
+    },
+    {
+      "ProductName": "Sliced ham",
+      "Quantity": 1,
+      "Weight": "200 g",
+      "EstCost": 4.5
+    },
+    {
+      "ProductName": "Cheddar cheese block",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 6.5
+    },
+    {
+      "ProductName": "Greek yoghurt",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 5.5
+    },
+    {
+      "ProductName": "Butter",
+      "Quantity": 1,
+      "Weight": "250 g",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Bananas",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 3.8
+    },
+    {
+      "ProductName": "Apples",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Blueberries",
+      "Quantity": 1,
+      "Weight": "250 g",
+      "EstCost": 4.5
+    },
+    {
+      "ProductName": "Mixed salad leaves",
+      "Quantity": 1,
+      "Weight": "120 g",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Tomatoes",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Lebanese cucumbers",
+      "Quantity": 1,
+      "Weight": "2 pack",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Brown onions",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 2.5
+    },
+    {
+      "ProductName": "Potatoes",
+      "Quantity": 1,
+      "Weight": "2 kg",
+      "EstCost": 5.0
+    },
+    {
+      "ProductName": "Carrots",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 2.0
+    },
+    {
+      "ProductName": "Broccoli",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Capsicum",
+      "Quantity": 1,
+      "Weight": "2 pack",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Avocado",
+      "Quantity": 1,
+      "Weight": "1 each",
+      "EstCost": 2.0
+    },
+    {
+      "ProductName": "Garlic",
+      "Quantity": 1,
+      "Weight": "1 head",
+      "EstCost": 1.0
+    },
+    {
+      "ProductName": "Basmati rice",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 2.5
+    },
+    {
+      "ProductName": "Penne pasta",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 1.5
+    },
+    {
+      "ProductName": "Pasta sauce",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Diced tomatoes",
+      "Quantity": 1,
+      "Weight": "400 g",
+      "EstCost": 1.2
+    },
+    {
+      "ProductName": "Tuna in springwater",
+      "Quantity": 1,
+      "Weight": "4 x 95 g",
+      "EstCost": 5.0
+    },
+    {
+      "ProductName": "Baked beans",
+      "Quantity": 1,
+      "Weight": "420 g",
+      "EstCost": 1.7
+    },
+    {
+      "ProductName": "Wholemeal wraps",
+      "Quantity": 1,
+      "Weight": "8 pack",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Rolled oats",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 2.5
+    },
+    {
+      "ProductName": "Instant coffee",
+      "Quantity": 1,
+      "Weight": "200 g",
+      "EstCost": 7.5
+    },
+    {
+      "ProductName": "Canola oil",
+      "Quantity": 1,
+      "Weight": "1 L",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Iodised salt",
+      "Quantity": 1,
+      "Weight": "750 g",
+      "EstCost": 1.0
+    },
+    {
+      "ProductName": "Black peppercorns",
+      "Quantity": 1,
+      "Weight": "50 g",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Mixed herbs",
+      "Quantity": 1,
+      "Weight": "15 g",
+      "EstCost": 2.0
+    },
+    {
+      "ProductName": "White sugar",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 2.4
+    },
+    {
+      "ProductName": "Dark chocolate",
+      "Quantity": 1,
+      "Weight": "180 g",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Muesli bars",
+      "Quantity": 1,
+      "Weight": "6 pack",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Mixed nuts",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 8.0
+    },
+    {
+      "ProductName": "Frozen mixed vegetables",
+      "Quantity": 1,
+      "Weight": "1 kg",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Frozen berries",
+      "Quantity": 1,
+      "Weight": "500 g",
+      "EstCost": 6.5
+    },
+    {
+      "ProductName": "Sparkling water",
+      "Quantity": 2,
+      "Weight": "1.25 L",
+      "EstCost": 0.85
+    },
+    {
+      "ProductName": "Orange juice",
+      "Quantity": 1,
+      "Weight": "2 L",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Laundry liquid",
+      "Quantity": 1,
+      "Weight": "1 L",
+      "EstCost": 6.0
+    },
+    {
+      "ProductName": "Dishwashing liquid",
+      "Quantity": 1,
+      "Weight": "900 mL",
+      "EstCost": 3.0
+    },
+    {
+      "ProductName": "Multipurpose cleaner",
+      "Quantity": 1,
+      "Weight": "500 mL",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Sponges",
+      "Quantity": 1,
+      "Weight": "4 pack",
+      "EstCost": 2.0
+    },
+    {
+      "ProductName": "Paper towel",
+      "Quantity": 1,
+      "Weight": "2 pack",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Toilet paper",
+      "Quantity": 1,
+      "Weight": "8 pack",
+      "EstCost": 5.0
+    },
+    {
+      "ProductName": "Garbage bags",
+      "Quantity": 1,
+      "Weight": "30 pack",
+      "EstCost": 4.0
+    },
+    {
+      "ProductName": "Hand soap",
+      "Quantity": 1,
+      "Weight": "250 mL",
+      "EstCost": 2.0
+    },
+    {
+      "ProductName": "Toothpaste",
+      "Quantity": 1,
+      "Weight": "110 g",
+      "EstCost": 3.5
+    },
+    {
+      "ProductName": "Shampoo",
+      "Quantity": 1,
+      "Weight": "400 mL",
+      "EstCost": 4.5
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+- Get order from ChatGPT
+- Load it in to a json
+- Load that to a database (Optional)
+- Pass the objects in to a API and get the actual price
+- (Optional) Cashe the results
+- (Optional) Used the cashed data instead of API if data is 2 weeks old
+- HTML front end
